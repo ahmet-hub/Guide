@@ -113,7 +113,7 @@ I am sharing the postman collection below
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n  \"contactId\": \"168e8608-af12-4a47-bcf7-1ea384580c01\",\r\n  \"phoneNumber\": \"0543000001\",\r\n  \"email\": \"samet@deneme.gmail.com\",\r\n  \"address\": \"samet test adres\",\r\n  \"location\": \"Ankara\"\r\n}",
+							"raw": "{\r\n  \"contactId\": \"168e8608-af12-4a47-bcf7-1ea384580c01\",\r\n  \"phoneNumber\": \"0543000001\",\r\n  \"email\": \"ahmet.yardimci98@gmail.com\",\r\n  \"address\": \"samet test adres\",\r\n  \"location\": \"Ankara\"\r\n}",
 							"options": {
 								"raw": {
 									"language": "json"
